@@ -41,8 +41,8 @@ const Navbar = () => {
             {
                         user ? 
                         <> <label tabIndex={0} className="btn btn-ghost btn-circle avatar">
-                        <div className="w-10 rounded-full">
-                            {/* <img src={userDefaultPic} /> */}
+                        <div  className="w-10 hover:{user.name} rounded-full">
+                            <img src='' />
                         </div>
                     </label></>
                        :
