@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Modern Single-Family Home",
+        "segment_name": "Residential",
+        "description": "A beautiful modern single-family home with 4 bedrooms and 3 bathrooms. Perfect for families looking for a spacious and comfortable living space.",
+        "price": {
+            "amount": 500000,
+            "duration": "one-time"
+        },
+        "status": "sale",
+        "area": 2500,
+        "location": "123 Maple Street, Springfield, IL",
+        "facilities": ["living room", "swimming pool", "kitchen", "garage", "backyard"],
+        "image": "https://i.ibb.co/0MgCf6h/image.png",
+        "view_property_url": "https://example.com/property/1"
+    },
+    {
+        "id": 2,
+        "estate_title": "Luxury Apartment",
+        "segment_name": "Residential",
+        "description": "A luxury apartment located in the heart of the city with stunning city views. Features 2 bedrooms, 2 bathrooms, and a state-of-the-art kitchen.",
+        "price": {
+            "amount": 750000,
+            "duration": "one-time"
+        },
+        "status": "sale",
+        "area": 1500,
+        "location": "456 Central Avenue, Metropolis, NY",
+        "facilities": ["living room", "kitchen", "gym", "rooftop terrace"],
+        "image": "https://i.ibb.co/Scnmk1m/image.png",
+        "view_property_url": "https://example.com/property/2"
+    },
+    {
+        "id": 3,
+        "estate_title": "Cozy Townhouse",
+        "segment_name": "Residential",
+        "description": "A charming townhouse with 3 bedrooms and 2.5 bathrooms. Located in a quiet neighborhood, perfect for those looking for a peaceful living environment.",
+        "price": {
+            "amount": 350000,
+            "duration": "one-time"
+        },
+        "status": "sale",
+        "area": 1800,
+        "location": "789 Oak Drive, Pleasantville, CA",
+        "facilities": ["living room", "kitchen", "garage", "community park"],
+        "image": "https://i.ibb.co/k2bXgmv/image.png",
+        "view_property_url": "https://example.com/property/3"
+    },
+    {
+        "id": 4,
+        "estate_title": "Student Housing Apartment",
+        "segment_name": "Residential",
+        "description": "Affordable student housing apartment near the university campus. Features 1 bedroom, 1 bathroom, and a shared living area.",
+        "price": {
+            "amount": 1200,
+            "duration": "month"
+        },
+        "status": "rent",
+        "area": 600,
+        "location": "101 College Road, University Town, MA",
+        "facilities": ["living room", "kitchen", "laundry room", "study area"],
+        "image": "https://i.ibb.co/n1j8ygY/image.png",
+        "view_property_url": "https://example.com/property/4"
+    },
+    {
+        "id": 5,
+        "estate_title": "Senior Living Community",
+        "segment_name": "Residential",
+        "description": "A serene senior living community offering various amenities for comfortable living. Includes 2 bedrooms, 1 bathroom, and a community center.",
+        "price": {
+            "amount": 3000,
+            "duration": "month"
+        },
+        "status": "rent",
+        "area": 1200,
+        "location": "202 Senior Lane, Retirement Village, FL",
+        "facilities": ["living room", "kitchen", "community center", "garden"],
+        "image": "https://i.ibb.co/KhwLhCK/image.png",
+        "view_property_url": "https://example.com/property/5"
+    },
+    {
+        "id": 6,
+        "estate_title": "Beachside Vacation Rental",
+        "segment_name": "Residential",
+        "description": "A beautiful beachside vacation rental with stunning ocean views. Features 3 bedrooms, 2 bathrooms, and a spacious living area.",
+        "price": {
+            "amount": 2500,
+            "duration": "week"
+        },
+        "status": "rent",
+        "area": 2000,
+        "location": "303 Beachfront Avenue, Oceanview, HI",
+        "facilities": ["living room", "swimming pool", "kitchen", "balcony"],
+        "image": "https://i.ibb.co/KsL71dx/image.png",
+        "view_property_url": "https://example.com/property/6"
+    }
+]
